@@ -11,3 +11,6 @@ Main objective was to create a dynamic tic tac toe game with different board siz
 Improved my understanding of 2d arrays in C and algorithms to calculate win.<br>
 Also tasked with creating a replay functionality which displayed the move sequence until the winning move.
 
+# CWK3 
+coursework that assesed my knowledge of pointers and structs in C. <br>
+Main objective was to create a Command Line Interface for a library management system.
